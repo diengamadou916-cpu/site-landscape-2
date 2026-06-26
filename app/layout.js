@@ -10,6 +10,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
+        <meta name="google-site-verification" content="SPvwC8gVjlK9IV9K9OR5ryC95fySHkpkwNla5-7W5t8" />
         <link rel="preconnect" href="https://images.unsplash.com" />
         <link
           rel="stylesheet"
